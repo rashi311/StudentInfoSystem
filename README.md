@@ -36,12 +36,14 @@ Users can add, search, and display student information like name, age, and addre
 ---
 
 ## 📦 Project Structure
-
+```
 project-folder/
 │
 ├── student.py # GUI and functionality
-├── demo.py # (Optional) script to create table
+├── demo.py.py # (Optional) script to create table
 ├── README.md
+└── images # (Optional)screenshot
+```
 
 
 
